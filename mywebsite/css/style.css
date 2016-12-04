@@ -1,0 +1,27 @@
+
+
+.blogtag {
+	font-size:40px;
+	float:left;
+}
+.photos{
+	font-size: 40px;
+	float:left;;
+}
+.Music{
+	font-size: 40px;
+	float:left;
+}
+.Movies{font-size: 40px;
+         }
+.Books{font-size: 40px;
+        float:left;}
+.Others{font-size: 40px;
+        }
+.recent {
+	padding-left: 8px !important;
+	padding-top: 8px;
+}
+
+body{background-color: #b9fc9c;}
+
